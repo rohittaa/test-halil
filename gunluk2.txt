@@ -1,5 +1,0 @@
-buraya yeni ogrediklerimi yazacagim.
-
-git ile birseyler yapmayi ogrenemeye basladim
-git repository'si icine dosya ekledim.
-ekledigim dosyalari commitledim.

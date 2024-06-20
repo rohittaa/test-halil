@@ -1,5 +1,0 @@
-bugun git ogrenmeye basladim.
-
-Ogrendiklerim.
-- git repository'sine dosya ekledim.
-- ekledigim yeni dosyalari commitledim.
